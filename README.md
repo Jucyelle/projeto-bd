@@ -1,7 +1,7 @@
 # Bookflix
 
 ## Modelo Conceitual
-![Bookflix](https://github.com/Jucyelle/projeto-bd/assets/60969241/9569497e-218c-4736-92cd-f6b7cd7e4e9b)
+![Bookflix](https://github.com/Jucyelle/projeto-bd/assets/60969241/90b58dd4-6de5-48cd-a588-abf960363d67)
 
 ## Equipe
 - Barbara de Lima - *21110439*
